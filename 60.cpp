@@ -1,4 +1,6 @@
-#include <bits/stdc++.h>
+#include<iostream>
+#include<cmath>
+#include<string>
 using namespace std;
 int main(){
 	int a,a1,a2,a3;
